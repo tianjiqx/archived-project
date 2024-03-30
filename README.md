@@ -1,2 +1,2 @@
 # archived-project
-archive project
+some archive project
